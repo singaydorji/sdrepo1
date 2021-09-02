@@ -1,0 +1,24 @@
+Dear Sir,
+Thank you for the questions. I have gone through all the questions and found them very interesting. However they are all at programming level. Some of them could be achieved with the use of various tools. 
+To approach question 1 we are looking at the following output . We can achieve this by focusing on a program language with their correct syntax and formulas for multiples of 3, 5 to print D,K respectively. For both multiples of 3 and 5 to print string DRUK KIDU. 
+ 1 11 D 31 41 D 61 71 D 91 2 D 22 32 D 52 62 D 82 92 D 13 23 D 43 53 D 73 83 D 4 14 D 34 44 D 64 74 D 94 K DIGITAK KIDU K K DIGITAL KIDU K K DIGITAL KIDU K K D 16 26 D 46 56 D 76 86 D 7 17 D 37 47 D 67 77 D 97 8 D K 38 D 58 68 D 88 98 D 19 29 D 49 59 D 79 89 D K K D K K DIGITAL KIDU K K DIGITAL KIDU K 
+To approach question 2, I am able to create databases in MySQL in the command line by enteringcreate database music_catalogue_db;
+
+I can see we need to create 4 tables in this database with the given information as per ER diagram. I am not so confident and well versed in creating tables in command lines. Therefore this may also be achieved using mysql workbench tool and MS excel. 
+My answer to question 2.1 creating an API to fulfill tasks a to d, can be achieved with JAVA, PHP, Python, etc. Question 2.2 creating reports for example Java reports can be created using jasport report tools like iReport with the correct versions and with queries. 
+Question 3 would require a web page (HTML/php, Java, etc.) or a user interface incorporating fields and buttons with specific links for login and logout. 
+Question 4 output will provide a table of the two employees with numeric or string values. Tables can be exported or downloaded using tools like mysql workbench in csv, json data files and accessible with excel or other spreadsheets. 
+Question 5 for testing correctness and ideal functionality. unit test for 3test case id t3test case descriptioncheck response for valid email and password
+test stepsenter email address, enter password, click login
+test data
+email=sonam@sonam.compassword= #@5Fgk
+expected result: successful loginactual result: login is successfulstatus: pass/fail
+unit test for 4test case id t4
+test case description; tabulate values of employee list
+test stepspass JWT token, fetch values, create tables, create download links, click download, click csv, save to pc. 
+test data
+idnameemail: sonam@sonam.comphone number:11111111designation id:1department id:1designation: id 1 name software engineer
+expected result: download csv successful, download excel successfulactual result: as expectedstatus: pass/fail
+Question 6 creation of form as shown in the table with drop down selection menu. Such forms can be created in many ways. For example using default table creation wizards or plugins in joomla or wordpress. Forms can also be created using templates in office applications. Posting multiple records using rest API. lookup column designation and department as per provided rest API, fetch values, write request data, write response body after creating records. 
+
+Devops and system administrationWe have to install GIT in our machine OS preferably from source to avail latest versions.  
